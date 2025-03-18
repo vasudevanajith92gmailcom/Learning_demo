@@ -1,4 +1,4 @@
 # Learning_demo
 This is a Demo repositry
 <br>
-Author Ajith V
+Author Ajith Vasudevan
